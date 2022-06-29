@@ -1,0 +1,125 @@
+@import "./header.css";
+@import "./flexbox.css";
+@import "./grid.css";
+@import "./font.css";
+
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+}
+
+body {
+    margin: 0;
+}
+
+.first-cube {
+    background-color: #282A35;
+    height: 350px;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    line-height: 1.5;
+}
+
+.first-cubbe {
+    max-width: 1400px;
+    text-align: center;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.learntocode1 {
+    color: white;
+    font-size: 70px;
+    font-weight: 700;
+    height: 105px;
+    margin: 2px 0 -20px 0;
+}
+
+.learntocode2 {
+    color: #FFC0C7;
+    font-size: 23px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.learntocode3 {
+    color: white;
+    
+}
+
+.where-to-begin {
+    color: inherit;
+    font-size: 23px;
+    font-weight: 700;
+    background-color: transparent;
+}
+
+.second-cube {
+    background-color: #D9EEE1;
+    height: 550px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.second-cubbe {
+    width: 50%;
+    padding: 3%;
+    height: 450px;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 700;
+    margin: 2px 0 -20px 0;
+    margin-top: -18px;
+}
+
+p {
+    font-size: 19px;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em
+}
+
+.tut-button {
+    display: block;
+    background-color: #04AA6D;
+    color: white;
+    width: 200px;
+    margin: auto;
+    font-size: 18px;
+    border-radius: 25px;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin-bottom: 2px;
+}
+
+.tut-button2 {
+    display: block;
+    color: black;
+    background-color: #FFF4A3;
+    padding: 8px 16px;
+    border-radius: 25px;
+    text-decoration: none;
+    width: 200px;
+    margin: auto;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 1px;
+}
+
+.tut-button3 {
+    display: block;
+    color: white;
+    background-color: black;
+    padding: 8px 16px;
+    border-radius: 25px;
+    text-decoration: none;
+    width: 200px;
+    margin: auto;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
